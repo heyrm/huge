@@ -1,3 +1,10 @@
+#README
+
+A backup version of HUGE taken from [panique](https://github.com/panique/huge) 
+
+***
+
+
 ![HUGE, formerly "php-login" logo](_pictures/huge.png)
 
 # HUGE
